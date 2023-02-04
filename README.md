@@ -1,4 +1,4 @@
-Use the link to open: Zireael-web.github.io
+## Use the link to open: Zireael-web.github.io
 
 The project is hosted on GitHub server. Here I practiced all the necessary JS knowledge(Functions, Events, DOM, AJAX, Localstorage, Regular Expressions and so on), JSON, Webpack, Babel. With these instruments I made a calculator, slider, timer, modal window, forms, tabs.
 
