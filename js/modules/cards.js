@@ -41,7 +41,7 @@ function cards() {
         }
     }
 
-    getResource('../db.json')
+    getResource('/../db.json')
         .then(data => {
             data.forEach(({img, altimg, title, descr, price}) => {
                 new MenuCard(img, altimg, title, descr, price, ".menu .container").render();
